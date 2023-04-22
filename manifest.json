@@ -1,9 +1,10 @@
 {
 	"$schema": "https://raw.githubusercontent.com/atampy25/simple-mod-framework/main/Mod%20Manager/src/lib/manifest-schema.json",
-	"version": "0.1.0",
-	"id": "YourPreferredAlias.AnIDForTheMod",
-	"name": "Incredible Mod",
-	"description": "A truly amazing mod",
-	"authors": ["Your Preferred Alias"],
-	"frameworkVersion": "2.15.1"
+	"version": "1.0.0",
+	"id": "Atampy26.EnhancedCameraZoom",
+	"name": "Enhanced Camera Zoom",
+	"description": "You can now zoom the camera up to 10x to truly experience those low resolution textures.",
+	"authors": ["Atampy26"],
+	"contentFolders": ["content"],
+	"frameworkVersion": "2.22.1"
 }

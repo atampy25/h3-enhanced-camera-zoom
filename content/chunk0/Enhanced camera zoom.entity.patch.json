@@ -1,0 +1,47 @@
+{
+	"tempHash": "00102EA3A46F6E24",
+	"tbluHash": "000977D5F9070B8D",
+	"patch": [
+		{
+			"op": "replace",
+			"path": "/entities/cdcc6e8336759b8b/properties/m_Curve/value/data/3/6",
+			"value": "LN|-2"
+		},
+		{
+			"op": "add",
+			"path": "/entities/cdcc6e8336759b8b/properties/m_Curve/value/data/-",
+			"value": [5, 8, 0, 0, 0, 0, -2, 8]
+		},
+		{
+			"op": "add",
+			"path": "/entities/cdcc6e8336759b8b/properties/m_Curve/value/data/-",
+			"value": [6, 6, 0, 0, 0, 0, -2, 6]
+		},
+		{
+			"op": "add",
+			"path": "/entities/cdcc6e8336759b8b/properties/m_Curve/value/data/-",
+			"value": [7, 4, 0, 0, 0, 0, -2, 4]
+		},
+		{
+			"op": "add",
+			"path": "/entities/cdcc6e8336759b8b/properties/m_Curve/value/data/-",
+			"value": [8, 2, 0, 0, 0, 0, -1, 2]
+		},
+		{
+			"op": "add",
+			"path": "/entities/cdcc6e8336759b8b/properties/m_Curve/value/data/-",
+			"value": [9, 1, 0, 0, 0, 0, -0.5, 1]
+		},
+		{
+			"op": "add",
+			"path": "/entities/cdcc6e8336759b8b/properties/m_Curve/value/data/-",
+			"value": [10, 0.5, 0, 0, 0, 0, 0, 0.5]
+		},
+		{
+			"op": "replace",
+			"path": "/entities/93c7f42ace04362f/properties/m_fMaximum/value",
+			"value": "LN|10"
+		}
+	],
+	"patchVersion": 4
+}
